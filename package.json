@@ -24,7 +24,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "supertiger1234",
+        "owner": "wangl-projects",
         "repo": "nertivia-desktop-app"
       }
     ],
